@@ -1,75 +1,24 @@
-# Dashboard
+# README
 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
+Things you may want to cover:
 
-A simple dashboard for a test
+* Ruby version
 
-<hr>
+* System dependencies
 
-[![Generic badge](https://img.shields.io/badge/Specs--blue.svg)](https://shields.io/)
+* Configuration
 
-- Ruby: 3.2.0
-- Rails: 7.1.2
-- Postgresql: 13.4
-- Rubocop
+* Database creation
 
-<hr>
+* Database initialization
 
+* How to run the test suite
 
-[![Generic badge](https://img.shields.io/badge/Install--blue.svg)](https://shields.io/)
-<details>
-  <summary>
-   more...
-  </summary>
+* Services (job queues, cache servers, search engines, etc.)
 
-Clone
+* Deployment instructions
 
-```
-git clone https://github.com/CarllosHenrique/Dashboard
-```
-
-Run:
-```
-bin/setup
-```
-</details>
-<hr>
-
-
-[![Generic badge](https://img.shields.io/badge/Linter--blue.svg)](https://shields.io/)
-
-<details>
-  <summary>
-   more...
-  </summary>
-Run
-
-```
-rubocop
-```
-</details>
-<hr>
-
-[![Generic badge](https://img.shields.io/badge/Patterns--green.svg)](https://shields.io/)
-
-<details>
-  <summary>
-   more...
-  </summary>
-
-Commit:
-```
-[Flag]: your_commit
-
-* Main flags: Fix, Feature, Refactor, Update, Remove... and so on
-```
-
-Branch:
-```
-2021-11-02-first_commit
-
-YYYY-MM-DD-card_title
-```
-</details>
-
+* ...
