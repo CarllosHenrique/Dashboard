@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'dashboard/index'
 
   devise_for :users, controllers: {
     sessions: 'users/sessions',
@@ -14,5 +15,5 @@ Rails.application.routes.draw do
   # Defines the root path route ("/")
   # root "posts#index"
 
-  root "home#index"
+  root "dashboard#index"
 end
